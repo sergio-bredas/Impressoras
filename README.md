@@ -1,0 +1,2 @@
+# Impressoras
+Arquivos de configuração.
