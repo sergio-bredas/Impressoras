@@ -2,7 +2,7 @@
 Arquivos e Configurações
 ## Drivers
 - Argox (Driver Atualizado)
-  - OS-214 plus series PPLA -> <https://www.seagullscientific.com/support/downloads/drivers/argox/download>  
+  - [OS-214 plus series PPLA](https://www.argox.com/upload/catalog_m/ALL_catalog_22E09_3wXoPNyUel.jpg) -> <https://www.seagullscientific.com/support/downloads/drivers/argox/download>  
 - Elgin (Download Center)
   - [i9](https://www.elgin.com.br/assets/arquivos/imgCard_4ce638a5-22e5-4a0d-a820-0108152ced91_optm_01_T.jpg) -> <https://www.elgin.com.br/Produtos/Automacao/impressoras-nao-fiscais-termicas/impressora-termica-de-cupom-i9-full>
   - [L42 PRO](https://www.elgin.com.br/assets/arquivos/imgCard_7c0b58ab-800a-42ac-a345-4e300179d18a_optm_01_T.jpg) -> <https://www.elgin.com.br/Produtos/Automacao/impressoras-de-etiquetas/impressora-de-etiqueta-l42pro>
