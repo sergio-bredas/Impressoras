@@ -1,6 +1,6 @@
 # Impressoras<br> 
 Arquivos e Configurações
-# Drivers
+## Drivers
 - Argox (Driver Atualizado)
   - OS-214 plus series PPLA -> <https://www.seagullscientific.com/support/downloads/drivers/argox/download>  
 - Elgin (Download Center)
