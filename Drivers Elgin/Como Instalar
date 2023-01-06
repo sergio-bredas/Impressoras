@@ -1,9 +1,0 @@
-
-Impressora Elgin i7 ou i9
-
-1. Faça o download do anexo Elgin i9.zip e descompacte em uma pasta de fácil acesso. 
-2. Em seguida execute o aplicativo "ELGIN_i9_i7_Driver_v-1.6.3.exe" para instalar o Driver USB.
-3. Faça o mesmo procedimento com o aplicativo "ELGINUtilitySetup V1.2.2.12.exe" para instalar o software Elgin Utility.
-4. Execute o aplicativo "PL2303_Prolific_DriverInstaller_v1.6.0.exe".
-5. Siga os passos presentes no manual "Procedimento Serial Virtual - i9.pdf"
-6. Nas configurações do sistema selecionar a porta COM que foi criada.
